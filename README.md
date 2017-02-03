@@ -11,6 +11,7 @@ cd myenv/
 vagrant up
 ```
 The installation could take a view minutes depending on your internet connection.
+After cloning the repository, you may change the hostname or forwareded ports in the `Vagrantfile`.
 
 ## Usage
 ```bash  
