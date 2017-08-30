@@ -6,7 +6,7 @@ It's possible that this repository will change a lot.
 ## Installation
 [Vagrant](https://www.vagrantup.com) and [Git](https://git-scm.com/) must be installed.
 ```bash
-git clone https://github.com/probandula/vagrant-base myenv
+git clone https://github.com/mbndr/vagrant-base myenv
 cd myenv/
 vagrant up
 ```
